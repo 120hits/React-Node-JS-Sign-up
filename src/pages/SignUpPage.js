@@ -11,7 +11,7 @@ const SignUpPage = () => {
         gutterBottom
         sx={{ marginTop: '50px' }}
       >
-        Welcome to RoRoFarms News Letter for this month!
+        Welcome to Rohit's News Letter for this month!
       </Typography>
       <SignUpForm />
     </Container>
